@@ -26,8 +26,8 @@ function handleSymbol(symbol) {
 
             flushOperation(parseFloat(buffer));
             previousOperator = null;
-            buffer = runningTotal.toString(); // Replace with the result
-            runningTotal = 0; // Reset for new calculations
+            buffer = runningTotal.toString();
+            runningTotal = 0;
             break;
 
         case '←':
@@ -59,7 +59,7 @@ function handleMath(symbol) {
     }
 
     previousOperator = symbol;
-    buffer = ""; // Clear buffer for the next number
+    buffer = "";
 }
 
 function flushOperation(intBuffer) {
@@ -89,7 +89,6 @@ function handleNumber(numberString) {
 }
 
 function updateScreen() {
-    // Display the ongoing calculation
     if (previousOperator) {
         screen.innerText = `${runningTotal} ${previousOperator} ${buffer}`;
     } else {
