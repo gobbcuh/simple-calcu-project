@@ -1,4 +1,4 @@
-# **✨ Simple Calculator with HTML, CSS, and JavaScript ✨**
+# **Simple Calculator with HTML, CSS, and JavaScript**
 
 Welcome to the Simple Calculator, your go-to tool for quick and easy arithmetic on the web! 🧮 Built with pure web technologies, this calculator lets you perform basic calculations with ease, all while delivering a smooth and intuitive user experience. Whether you're adding up your shopping total or just doing some quick math, this calculator has got you covered. 🔢💻
 
@@ -44,10 +44,3 @@ Want to try it out locally? Here’s how you can get started:
    ```
 
 3. Open `index.html` in any web browser, and you're all set! 🚀
-
-## **🤝 Contributing:**
-I gladly welcome contributions! If you have suggestions for improvements or encounter any bugs, feel free to:
-- Open a **pull request** for your improvements.
-- Submit an **issue** for any bugs you find or features you'd like to see.
-
-Thank you for checking out this project – let’s build something amazing together! ✨😊
