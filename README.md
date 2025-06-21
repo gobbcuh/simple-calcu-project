@@ -16,9 +16,9 @@ Welcome to the Simple Calculator, your go-to tool for quick and easy arithmetic 
 ## **🛠️ Technologies Used:**
 Here’s a quick peek at the powerful tech stack that makes this calculator function flawlessly:
 
-- **HTML**: The backbone of my project, providing the structure and layout for a seamless calculator experience. 🏗️
-- **CSS**: For styling, adding elegance, and ensuring a visually appealing interface that’s as sleek as it is functional. 🎨
-- **JavaScript**: The brain of the operation, handling user input and performing calculations to ensure everything works like a charm. ⚡
+- **HTML**: The backbone of my project, providing the structure and layout for a seamless calculator experience.
+- **CSS**: For styling, adding elegance, and ensuring a visually appealing interface that’s as sleek as it is functional.
+- **JavaScript**: The brain of the operation, handling user input and performing calculations to ensure everything works like a charm.
 
 ## **👨‍💻 How to Use:**
 Getting started with your new calculator is a breeze! Simply follow these steps:
